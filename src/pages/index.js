@@ -31,6 +31,12 @@ const links = [
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
   },
+  {
+    text: "This is my great test",
+    url: "https://www.oneclickflare.com",
+    description:
+      "This is a wonderful test",
+  }
 ]
 
 const samplePageLinks = [
